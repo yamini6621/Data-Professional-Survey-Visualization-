@@ -1,5 +1,5 @@
 # Data-Professional-Survey-Visualization-
-Data-Professional Survey breakdown visualization using Power-BI
+
 <img width="745" alt="powerbi_dash1" src="https://github.com/yamini6621/Data-Professional-Survey-Visualization-/assets/113737709/f28192df-7fec-4134-ae19-5cfe24f0473e">
 
 ## Introduction
