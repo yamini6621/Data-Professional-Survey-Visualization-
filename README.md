@@ -53,7 +53,7 @@ This report presents a comprehensive visualization of the Data Professional Surv
 
 The visualizations provide valuable insights into the state of the data profession, highlighting the need for salary equity and job satisfaction enhancement.
 
-For a full interactive experience, please refer to the Power BI dashboard.
+For a full interactive experience, please refer to the [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBiMmM3NTgtMDUwNS00Y2M2LTg1YTEtZTA3ZDI4ZTg2ODg4IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9).
 
 ---
 
